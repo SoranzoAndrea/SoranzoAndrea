@@ -1,4 +1,4 @@
-# "HELLO WORLD!", I'M JAY
+# "HELLO WORLD!", I'M ANDREA (but you could call me Jay)
 
 + I'm a 17 years old student in italy
 + I know a little bit of ***HTML, CSS, JavaScript, Java and C#***
