@@ -1,9 +1,9 @@
 # "HELLO WORLD!", I'M ANDREA
 
-+ I'm a 18 years old student in italy **Always tryng to improve 💪**
+I'm a 18 years old student in italy constantly learing new things.
+**Always tryng to improve 💪**
 <div align="center">
 
-  
 ## 🖥️ OS
 ![](https://img.shields.io/badge/-Windows-0078D6?logo=Windows&logoColor=white&style=flat&logoWidth=20)
   
