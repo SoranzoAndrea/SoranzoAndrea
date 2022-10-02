@@ -1,6 +1,6 @@
 # "HELLO WORLD!", I'M ANDREA
 
-I'm a 18 years old student in italy constantly learing new things.
+I'm a 19 years old student in italy constantly learing new things.
 **Always tryng to improve 💪**
 <div align="center">
 
